@@ -4,14 +4,12 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-    return {"message": "Conversation RAG System API Online"}
+    return {"message": "Conversation RAG System API", "status": "online"}
 
 @app.get("/persona")
-def get_persona():
-    return {
-        "habits": {
-            "sleep_patterns": "Late sleeper",
-            "food_habits": "Coffee drinker",
-            "work_patterns": "Career-focused"
-        }
-    }
+def persona():
+    return {"habits": {"sleep": "Late sleeper", "food": "Coffee drinker"}, "personality": ["Humorous", "Optimistic"]}
+
+@app.get("/health")
+def health():
+    return {"ok": True}
