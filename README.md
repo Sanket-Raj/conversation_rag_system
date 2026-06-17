@@ -22,3 +22,17 @@ The system scans all conversation messages for behavioral signals:
 All signals are stored in a structured JSON with confidence levels, creating an honest persona representation based on actual conversation patterns.
 
 ## Project Structure
+conversation_rag_system/
+├── data/
+│   ├── conversations.csv
+│   ├── processed_checkpoints.json (auto-generated)
+│   └── user_persona.json (auto-generated)
+├── src/
+│   ├── data_processor.py
+│   ├── topic_detector.py
+│   ├── rag_system.py
+│   ├── persona_extractor.py
+│   ├── chatbot.py
+│   └── embeddings.py
+├── main.py
+└── requirements.txt
