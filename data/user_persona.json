@@ -1,0 +1,20 @@
+{
+  "habits": {
+    "sleep_patterns": "Late sleeper",
+    "food_habits": "Coffee drinker",
+    "work_patterns": "Career-focused"
+  },
+  "personal_facts": [
+    "In a relationship",
+    "Employed"
+  ],
+  "personality_traits": [
+    "Humorous",
+    "Optimistic"
+  ],
+  "communication_style": {
+    "tone": "Enthusiastic",
+    "emoji": "Occasional",
+    "formality": "Casual"
+  }
+}

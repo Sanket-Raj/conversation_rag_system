@@ -1,0 +1,67 @@
+{
+  "checkpoints": [
+    {
+      "type": "topic",
+      "topic": "general",
+      "start": 0,
+      "end": 0,
+      "count": 1,
+      "summary": "Good morning! How are you?..."
+    },
+    {
+      "type": "topic",
+      "topic": "food",
+      "start": 1,
+      "end": 1,
+      "count": 1,
+      "summary": "I had coffee earlier..."
+    },
+    {
+      "type": "topic",
+      "topic": "work",
+      "start": 2,
+      "end": 3,
+      "count": 2,
+      "summary": "Just finished the project meeting My boss was happy with the results..."
+    },
+    {
+      "type": "topic",
+      "topic": "food",
+      "start": 4,
+      "end": 5,
+      "count": 2,
+      "summary": "Heading to lunch with friends Pizza was amazing..."
+    },
+    {
+      "type": "topic",
+      "topic": "health",
+      "start": 6,
+      "end": 6,
+      "count": 1,
+      "summary": "Going to gym now..."
+    },
+    {
+      "type": "topic",
+      "topic": "work",
+      "start": 7,
+      "end": 7,
+      "count": 1,
+      "summary": "Just finished workout..."
+    },
+    {
+      "type": "topic",
+      "topic": "entertainment",
+      "start": 8,
+      "end": 9,
+      "count": 2,
+      "summary": "Netflix time! Starting new series This show is incredible..."
+    },
+    {
+      "type": "message_chunk",
+      "start": 0,
+      "end": 9,
+      "count": 10,
+      "summary": "Good morning! How are you? I had coffee earlier Just finished the project meeting My boss was happy with the results Heading to lunch with friends..."
+    }
+  ]
+}

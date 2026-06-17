@@ -1,0 +1,11 @@
+﻿date,time,user_id,message,conversation_id
+2024-01-01,09:00,user_1,Good morning! How are you?,conv_001
+2024-01-01,09:15,user_1,I had coffee earlier,conv_001
+2024-01-01,10:00,user_1,Just finished the project meeting,conv_002
+2024-01-01,10:30,user_1,My boss was happy with the results,conv_002
+2024-01-01,14:00,user_1,Heading to lunch with friends,conv_003
+2024-01-01,14:45,user_1,Pizza was amazing,conv_003
+2024-01-01,15:00,user_1,Going to gym now,conv_004
+2024-01-01,16:30,user_1,Just finished workout,conv_004
+2024-01-01,19:00,user_1,Netflix time! Starting new series,conv_005
+2024-01-01,20:00,user_1,This show is incredible,conv_005
