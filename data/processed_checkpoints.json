@@ -4,64 +4,104 @@
       "type": "topic",
       "topic": "general",
       "start": 0,
-      "end": 0,
-      "count": 1,
-      "summary": "Good morning! How are you?..."
+      "end": 4,
+      "count": 5,
+      "summary": "Hi! How are you? Good thanks for asking! How about yourself? I'm doing pretty well. I'm excited to be moving to Oh that's awesome! What city are you moving to? I'm moving to Portland Oregon. I'm going..."
     },
     {
       "type": "topic",
-      "topic": "food",
-      "start": 1,
-      "end": 1,
-      "count": 1,
-      "summary": "I had coffee earlier..."
-    },
-    {
-      "type": "topic",
-      "topic": "work",
-      "start": 2,
-      "end": 3,
-      "count": 2,
-      "summary": "Just finished the project meeting My boss was happy with the results..."
-    },
-    {
-      "type": "topic",
-      "topic": "food",
-      "start": 4,
+      "topic": "personal",
+      "start": 5,
       "end": 5,
-      "count": 2,
-      "summary": "Heading to lunch with friends Pizza was amazing..."
+      "count": 1,
+      "summary": "That sounds amazing! I love Portland. I'm original..."
     },
     {
       "type": "topic",
-      "topic": "health",
+      "topic": "general",
       "start": 6,
       "end": 6,
       "count": 1,
-      "summary": "Going to gym now..."
+      "summary": "Really? That's so cool! Do you still live there?..."
     },
     {
       "type": "topic",
-      "topic": "work",
+      "topic": "personal",
       "start": 7,
       "end": 7,
       "count": 1,
-      "summary": "Just finished workout..."
+      "summary": "No I moved away a few years ago. But I still visit..."
+    },
+    {
+      "type": "topic",
+      "topic": "food",
+      "start": 8,
+      "end": 8,
+      "count": 1,
+      "summary": "That's great. Do you have any favorite places to v..."
     },
     {
       "type": "topic",
       "topic": "entertainment",
-      "start": 8,
+      "start": 9,
       "end": 9,
+      "count": 1,
+      "summary": "Yes I love going to Powell's Books. It's the large..."
+    },
+    {
+      "type": "topic",
+      "topic": "general",
+      "start": 10,
+      "end": 11,
       "count": 2,
-      "summary": "Netflix time! Starting new series This show is incredible..."
+      "summary": "Hey how are you doing? Doing well how about yourself?..."
+    },
+    {
+      "type": "topic",
+      "topic": "food",
+      "start": 12,
+      "end": 12,
+      "count": 1,
+      "summary": "I'm doing great! I'm a fulltime student studying r..."
+    },
+    {
+      "type": "topic",
+      "topic": "health",
+      "start": 13,
+      "end": 13,
+      "count": 1,
+      "summary": "That's awesome! I'm a big fan of punk music and I ..."
+    },
+    {
+      "type": "topic",
+      "topic": "general",
+      "start": 14,
+      "end": 17,
+      "count": 4,
+      "summary": "Nice! I've been meaning to try yoga but I've never Hello there how are you doing today? Hi there I am doing well thanks! How about you? I'm doing well. What kind of things do you enjoy d..."
+    },
+    {
+      "type": "topic",
+      "topic": "food",
+      "start": 18,
+      "end": 20,
+      "count": 3,
+      "summary": "I enjoy reading cooking and spending time with my  Reading is a great way to relax. I love to cook to I love making chicken parmesan and chocolate chip ..."
+    },
+    {
+      "type": "topic",
+      "topic": "general",
+      "start": 21,
+      "end": 25,
+      "count": 5,
+      "summary": "Hi there! Hey! How's your day? Pretty good so far! Just got back from a hike. Oh nice! Where did you hike? I hiked in the Everglades. It was amazing! The wil..."
     },
     {
       "type": "message_chunk",
       "start": 0,
-      "end": 9,
-      "count": 10,
-      "summary": "Good morning! How are you? I had coffee earlier Just finished the project meeting My boss was happy with the results Heading to lunch with friends..."
+      "end": 25,
+      "count": 26,
+      "summary": "Hi! How are you? Good thanks for asking! How about yourself? I'm doing pretty well. I'm excited to be moving to Oh that's awesome! What city are you moving to? I'm moving to Portland Oregon. I'm going..."
     }
   ]
 }
