@@ -1,6 +1,6 @@
 ﻿date,time,user_id,message,conversation_id
 2024-01-15,09:00,user_1,Hi! How are you?,conv_001
-2024-01-15,09:05,user_2,Good, thanks for asking! How about yourself?,conv_001
+2024-01-15,09:05,user_2,Good thanks for asking! How about yourself?,conv_001
 2024-01-15,09:10,user_1,I'm doing pretty well. I'm excited to be moving to a new city soon!,conv_001
 2024-01-15,09:15,user_2,Oh that's awesome! What city are you moving to?,conv_001
 2024-01-15,09:20,user_1,I'm moving to Portland Oregon. I'm going to be pursuing my culinary dreams there.,conv_001
