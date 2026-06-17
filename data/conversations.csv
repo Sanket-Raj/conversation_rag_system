@@ -1,11 +1,27 @@
 ﻿date,time,user_id,message,conversation_id
-2024-01-01,09:00,user_1,Good morning! How are you?,conv_001
-2024-01-01,09:15,user_1,I had coffee earlier,conv_001
-2024-01-01,10:00,user_1,Just finished the project meeting,conv_002
-2024-01-01,10:30,user_1,My boss was happy with the results,conv_002
-2024-01-01,14:00,user_1,Heading to lunch with friends,conv_003
-2024-01-01,14:45,user_1,Pizza was amazing,conv_003
-2024-01-01,15:00,user_1,Going to gym now,conv_004
-2024-01-01,16:30,user_1,Just finished workout,conv_004
-2024-01-01,19:00,user_1,Netflix time! Starting new series,conv_005
-2024-01-01,20:00,user_1,This show is incredible,conv_005
+2024-01-15,09:00,user_1,Hi! How are you?,conv_001
+2024-01-15,09:05,user_2,Good, thanks for asking! How about yourself?,conv_001
+2024-01-15,09:10,user_1,I'm doing pretty well. I'm excited to be moving to a new city soon!,conv_001
+2024-01-15,09:15,user_2,Oh that's awesome! What city are you moving to?,conv_001
+2024-01-15,09:20,user_1,I'm moving to Portland Oregon. I'm going to be pursuing my culinary dreams there.,conv_001
+2024-01-15,09:25,user_2,That sounds amazing! I love Portland. I'm originally from there.,conv_001
+2024-01-15,10:00,user_1,Really? That's so cool! Do you still live there?,conv_002
+2024-01-15,10:05,user_2,No I moved away a few years ago. But I still visit my family there often.,conv_002
+2024-01-15,10:10,user_1,That's great. Do you have any favorite places to visit in Portland?,conv_002
+2024-01-15,10:15,user_2,Yes I love going to Powell's Books. It's the largest independent bookstore in the world.,conv_002
+2024-01-15,14:00,user_1,Hey how are you doing?,conv_003
+2024-01-15,14:05,user_2,Doing well how about yourself?,conv_003
+2024-01-15,14:10,user_1,I'm doing great! I'm a fulltime student studying radiology at a local college and I also play in a band.,conv_003
+2024-01-15,14:15,user_2,That's awesome! I'm a big fan of punk music and I like to run and do yoga.,conv_003
+2024-01-15,14:20,user_1,Nice! I've been meaning to try yoga but I've never really had the time.,conv_003
+2024-01-15,15:00,user_1,Hello there how are you doing today?,conv_004
+2024-01-15,15:05,user_2,Hi there I am doing well thanks! How about you?,conv_004
+2024-01-15,15:10,user_1,I'm doing well. What kind of things do you enjoy doing?,conv_004
+2024-01-15,15:15,user_2,I enjoy reading cooking and spending time with my family.,conv_004
+2024-01-15,15:20,user_1,Reading is a great way to relax. I love to cook too! What is your favorite meal to make?,conv_004
+2024-01-15,15:25,user_2,I love making chicken parmesan and chocolate chip cookies.,conv_004
+2024-01-15,16:00,user_1,Hi there!,conv_005
+2024-01-15,16:05,user_2,Hey! How's your day?,conv_005
+2024-01-15,16:10,user_1,Pretty good so far! Just got back from a hike.,conv_005
+2024-01-15,16:15,user_2,Oh nice! Where did you hike?,conv_005
+2024-01-15,16:20,user_1,I hiked in the Everglades. It was amazing! The wildlife was incredible!,conv_005
